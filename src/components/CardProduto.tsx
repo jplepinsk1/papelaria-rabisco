@@ -31,11 +31,11 @@ export default function CardProduto({
   destaque
 }: CardProdutoProps) {
   // Estado local para armazenar o caminho da imagem de exibição, utilizando o placeholder como valor de fallback padrão
-  const [imgSrc, setImgSrc] = useState<string>(imageSrc || "/produtos/placeholder.png");
+  const [imgSrc, setImgSrc] = useState<string>(imageSrc || "/produtos/placeholder.jpg");
 
   // Sincroniza o estado local caso a propriedade imageSrc externa seja atualizada ou alterada pelo componente pai
   useEffect(() => {
-    setImgSrc(imageSrc || "/produtos/placeholder.png");
+    setImgSrc(imageSrc || "/produtos/placeholder.jpg");
   }, [imageSrc]);
 
   // 2. Formatação de moeda BRL nativa
