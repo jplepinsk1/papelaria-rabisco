@@ -31,7 +31,7 @@ export default function CardProduto({
   destaque
 }: CardProdutoProps) {
 
-  const [imgSrc, setImgSrc] = useState(imageSrc)
+  const [imgSrc, setImgSrc] = useState(imageSrc || "produtos/placeholder.jpg")
 
   const placeholderImage = '/produtos/placeholder.jfif'
 
