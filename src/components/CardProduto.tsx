@@ -54,7 +54,7 @@ export default function CardProduto({
       {/* Container de imagem do produto com Image do Next.js para otimização e SEO */}
       <div className="relative w-full aspect-video mt-4">
         <Image
-          src={imgSrc || "/produtos/placeholder.jfif"}
+          src={imgSrc || "/produtos/placeholder.jpg"}
           alt={title}
           fill
           className="object-contain p-2"
