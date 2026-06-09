@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "title": "Apontador Escolar",
+    "description": "Apontador de acrílico, compacto, com reservatório para aparas",
+    "price": 8.90,
+    "imageSrc": "/produtos/Apontador.png",
+    "destaque": false
+  },
+  {
+    "id": 2,
+    "title": "Caderno Universitário 10 Matérias",
+    "description": "Caderno capa dura com 200 folhas pautadas e bolsa plástica interna",
+    "price": 29.90,
+    "imageSrc": "/produtos/Caderno-10-Materias.png",
+    "destaque": true
+  },
+  {
+    "id": 3,
+    "title": "Caneta Esferográfica Azul 0.7mm",
+    "description": "Caneta com escrita fina e macia, corpo translúcido",
+    "price": 2.50,
+    "imageSrc": "/produtos/Caneta-Azul.png",
+    "destaque": false
+  },
+  {
+    "id": 4,
+    "title": "Caneta Esferográfica Preta 0.7mm",
+    "description": "Caneta com escrita fina e macia, corpo translúcido",
+    "price": 2.50,
+    "imageSrc": "/produtos/Caneta-Preta.png",
+    "destaque": false
+  },
+  {
+    "id": 5,
+    "title": "Caneta Esferográfica Vermelha 0.7mm",
+    "description": "Caneta com escrita fina e macia, corpo translúcido",
+    "price": 2.50,
+    "imageSrc": "/produtos/Caneta-Vermelha.png",
+    "destaque": false
+  },
+  {
+    "id": 6,
+    "title": "Kit Canetas Gel Tons Pastel",
+    "description": "Estojo com 6 canetas gel coloridas em tons pastéis suaves",
+    "price": 24.90,
+    "imageSrc": "/produtos/Kit-Canetas-Pastel.png",
+    "destaque": true
+  },
+  {
+    "id": 7,
+    "title": "Lápis de Cor 24 Cores",
+    "description": "Lápis de cor sextavados com mina macia e excelente cobertura",
+    "price": 19.90,
+    "imageSrc": "/produtos/Lapis-Cor-24.png",
+    "destaque": false
+  },
+  {
+    "id": 8,
+    "title": "Lapiseira 0.7mm Ergonômica",
+    "description": "Lapiseira com grip emborrachado para maior conforto na escrita",
+    "price": 12.50,
+    "imageSrc": "/produtos/Lapiseira-07.png",
+    "destaque": false
+  },
+  {
+    "id": 9,
+    "title": "Grafite 0.7mm HB",
+    "description": "Tubo com 12 minas de grafite de alta resistência",
+    "price": 4.50,
+    "imageSrc": "/produtos/Grafite-07.png",
+    "destaque": false
+  },
+  {
+    "id": 10,
+    "title": "Borracha Branca com Capa Plástica",
+    "description": "Borracha macia que não borra e possui capa protetora",
+    "price": 3.20,
+    "imageSrc": "/produtos/Borracha-Capa.png",
+    "destaque": false
+  },
+  {
+    "id": 11,
+    "title": "Bloco de Notas Autoadesivas Amarelo",
+    "description": "Bloco com 100 folhas reposicionáveis para lembretes",
+    "price": 7.90,
+    "imageSrc": "/produtos/Post-it-Amarelo.png",
+    "destaque": false
+  },
+  {
+    "id": 12,
+    "title": "Kit Notas Autoadesivas Neon",
+    "description": "4 blocos coloridos em tons neon com 50 folhas cada",
+    "price": 15.90,
+    "imageSrc": "/produtos/Post-it-Neon.png",
+    "destaque": true
+  },
+  {
+    "id": 13,
+    "title": "Marcador de Texto Amarelo Neon",
+    "description": "Destaca-texto com ponta chanfrada, secagem rápida",
+    "price": 5.50,
+    "imageSrc": "/produtos/Marcador-Amarelo.png",
+    "destaque": false
+  },
+  {
+    "id": 14,
+    "title": "Kit Marcadores de Texto Pastel",
+    "description": "Estojo com 4 marcadores em tons pastel super delicados",
+    "price": 18.90,
+    "imageSrc": "/produtos/Kit-Marcador-Pastel.png",
+    "destaque": true
+  },
+  {
+    "id": 15,
+    "title": "Régua Plástica 30cm",
+    "description": "Régua transparente de poliestireno resistente com marcação precisa",
+    "price": 3.90,
+    "imageSrc": "/produtos/Regua-30cm.png",
+    "destaque": false
+  },
+  {
+    "id": 16,
+    "title": "Tesoura Escolar Sem Ponta",
+    "description": "Tesoura com lâminas de aço inox e cabo anatômico",
+    "price": 6.80,
+    "imageSrc": "/produtos/Tesoura-Escolar.png",
+    "destaque": false
+  },
+  {
+    "id": 17,
+    "title": "Cola Bastão 20g",
+    "description": "Cola em bastão de secagem rápida, ideal para papéis e fotos",
+    "price": 5.20,
+    "imageSrc": "/produtos/Cola-Bastao.png",
+    "destaque": false
+  },
+  {
+    "id": 18,
+    "title": "Cola Líquida Branca 90g",
+    "description": "Cola lavável não tóxica, perfeita para trabalhos escolares",
+    "price": 4.50,
+    "imageSrc": "/produtos/Cola-Liquida.png",
+    "destaque": false
+  },
+  {
+    "id": 19,
+    "title": "Fita Corretiva 5mm x 6m",
+    "description": "Corretivo em fita com aplicação a seco e correção imediata",
+    "price": 11.90,
+    "imageSrc": "/produtos/Fita-Corretiva.png",
+    "destaque": false
+  },
+  {
+    "id": 20,
+    "title": "Corretivo Líquido 18ml",
+    "description": "Corretivo líquido à base de água com pincel aplicador",
+    "price": 4.10,
+    "imageSrc": "/produtos/Corretivo-Liquido.png",
+    "destaque": false
+  },
+  {
+    "id": 21,
+    "title": "Estojo Escolar Duplo",
+    "description": "Estojo em tecido resistente com dois compartimentos amplos",
+    "price": 22.90,
+    "imageSrc": "/produtos/Estojo-Duplo.png",
+    "destaque": false
+  },
+  {
+    "id": 22,
+    "title": "Estojo Organizador 100 Pens",
+    "description": "Estojo estruturado com elásticos para organizar até 100 canetas",
+    "price": 59.90,
+    "imageSrc": "/produtos/Estojo-100-Pens.png",
+    "destaque": true
+  },
+  {
+    "id": 23,
+    "title": "Pasta Sanfonada A4 12 Divisórias",
+    "description": "Pasta plástica organizadora com etiquetas de identificação",
+    "price": 26.50,
+    "imageSrc": "/produtos/Pasta-Sanfonada.png",
+    "destaque": false
+  },
+  {
+    "id": 24,
+    "title": "Pasta L Transparente A4",
+    "description": "Pasta fina de polipropileno para proteger relatórios e documentos",
+    "price": 2.20,
+    "imageSrc": "/produtos/Pasta-L.png",
+    "destaque": false
+  },
+  {
+    "id": 25,
+    "title": "Grampeador de Mesa Compacto",
+    "description": "Grampeador metálico com base emborrachada para até 20 folhas",
+    "price": 18.90,
+    "imageSrc": "/produtos/Grampeador-Mesa.png",
+    "destaque": false
+  },
+  {
+    "id": 26,
+    "title": "Caixa de Grampos 26/6",
+    "description": "Caixa contendo 5000 grampos galvanizados de alta qualidade",
+    "price": 6.50,
+    "imageSrc": "/produtos/Caixa-Grampos.png",
+    "destaque": false
+  },
+  {
+    "id": 27,
+    "title": "Extrator de Grampos Tipo Espátula",
+    "description": "Removedor de grampos prático em aço inox",
+    "price": 4.90,
+    "imageSrc": "/produtos/Extrator-Grampos.png",
+    "destaque": false
+  },
+  {
+    "id": 28,
+    "title": "Clips de Papel Galvanizados 2/0",
+    "description": "Caixa com 100 unidades de clips metálicos para papel",
+    "price": 3.80,
+    "imageSrc": "/produtos/Clips-Galvanizados.png",
+    "destaque": false
+  },
+  {
+    "id": 29,
+    "title": "Prendedor de Papel Binder 25mm",
+    "description": "Caixa com 12 prendedores de pressão pretos",
+    "price": 9.50,
+    "imageSrc": "/produtos/Binder-25mm.png",
+    "destaque": false
+  },
+  {
+    "id": 30,
+    "title": "Caderno de Desenho Cartografia",
+    "description": "Caderno capa dura com 96 folhas brancas sem pauta de alta gramatura",
+    "price": 16.90,
+    "imageSrc": "/produtos/Caderno-Desenho.png",
+    "destaque": false
+  },
+  {
+    "id": 31,
+    "title": "Bloco de Papel Almasso Pautado",
+    "description": "Pacote com 40 folhas duplas pautadas para trabalhos",
+    "price": 8.50,
+    "imageSrc": "/produtos/Papel-Almasso.png",
+    "destaque": false
+  },
+  {
+    "id": 32,
+    "title": "Fita Adesiva Transparente 12x30",
+    "description": "Rolo de fita adesiva ideal para pacotes e fechamentos leves",
+    "price": 2.90,
+    "imageSrc": "/produtos/Fita-Adesiva.png",
+    "destaque": false
+  },
+  {
+    "id": 33,
+    "title": "Suporte para Fita Adesiva de Mesa",
+    "description": "Dispensador de fita adesiva com base pesada antiderrapante",
+    "price": 14.90,
+    "imageSrc": "/produtos/Suporte-Fita.png",
+    "destaque": false
+  },
+  {
+    "id": 34,
+    "title": "Canetinha Hidrográfica 12 Cores",
+    "description": "Marcadores de feltro laváveis com ponta resistente",
+    "price": 13.50,
+    "imageSrc": "/produtos/Canetinha-12.png",
+    "destaque": false
+  },
+  {
+    "id": 35,
+    "title": "Canetinha Hidrográfica Vai e Vem 24 Cores",
+    "description": "Canetinhas com ponta amortecida que evita que afunde",
+    "price": 32.90,
+    "imageSrc": "/produtos/Canetinha-Vai-Vem.png",
+    "destaque": true
+  },
+  {
+    "id": 36,
+    "title": "Tinta Guache 6 Cores",
+    "description": "Potes de 15ml com cores vibrantes e miscíveis entre si",
+    "price": 7.90,
+    "imageSrc": "/produtos/Tinta-Guache.png",
+    "destaque": false
+  },
+  {
+    "id": 37,
+    "title": "Pincel Chato Nº 8",
+    "description": "Pincel escolar com cerdas macias e cabo de madeira curto",
+    "price": 4.20,
+    "imageSrc": "/produtos/Pincel-Chato.png",
+    "destaque": false
+  },
+  {
+    "id": 38,
+    "title": "Massa de Modelar 12 Cores",
+    "description": "Caixa de massinha de modelar macia e não tóxica 180g",
+    "price": 8.90,
+    "imageSrc": "/produtos/Massa-Modelar.png",
+    "destaque": false
+  },
+  {
+    "id": 39,
+    "title": "Calculadora Científica Padrão",
+    "description": "Calculadora com 240 funções e visor de duas linhas",
+    "price": 49.90,
+    "imageSrc": "/produtos/Calculadora-Cientifica.png",
+    "destaque": true
+  },
+  {
+    "id": 40,
+    "title": "Perfurador de Papel 2 Furos",
+    "description": "Perfurador metálico compacto para até 10 folhas",
+    "price": 15.50,
+    "imageSrc": "/produtos/Perfurador.png",
+    "destaque": false
+  },
+  {
+    "id": 41,
+    "title": "Organizador de Mesa Acrílico",
+    "description": "Porta-lápis, clips e papéis integrado para escritório",
+    "price": 24.90,
+    "imageSrc": "/produtos/Organizador-Mesa.png",
+    "destaque": false
+  },
+  {
+    "id": 42,
+    "title": "Prancheta A4 de Eucatex",
+    "description": "Prancheta resistente com prendedor metálico de alta pressão",
+    "price": 9.90,
+    "imageSrc": "/produtos/Prancheta-Eucatex.png",
+    "destaque": false
+  },
+  {
+    "id": 43,
+    "title": "Agenda Diária Executiva",
+    "description": "Agenda com um dia por página, capa em couro sintético",
+    "price": 34.90,
+    "imageSrc": "/produtos/Agenda-Executiva.png",
+    "destaque": true
+  },
+  {
+    "id": 44,
+    "title": "Planner Semanal de Mesa",
+    "description": "Bloco planner com 52 folhas destacáveis para planejamento",
+    "price": 19.90,
+    "imageSrc": "/produtos/Planner-Mesa.png",
+    "destaque": true
+  },
+  {
+    "id": 45,
+    "title": "Papel Sulfite A4 75g Refratário",
+    "description": "Resma com 500 folhas brancas multiuso de alta qualidade",
+    "price": 28.90,
+    "imageSrc": "/produtos/Papel-Sulfite.png",
+    "destaque": true
+  },
+  {
+    "id": 46,
+    "title": "Bloco de Papel Canson A4",
+    "description": "Papel para desenho de 140g/m² com 20 folhas texturizadas",
+    "price": 15.90,
+    "imageSrc": "/produtos/Bloco-Canson.png",
+    "destaque": false
+  },
+  {
+    "id": 47,
+    "title": "Fita Dupla Face 12mm x 10m",
+    "description": "Fita adesiva com liner protetor ideal para artesanato",
+    "price": 6.50,
+    "imageSrc": "/produtos/Fita-Dupla-Face.png",
+    "destaque": false
+  },
+  {
+    "id": 48,
+    "title": "Marcador para Quadro Branco Preto",
+    "description": "Pincel de quadro branco recarregável de fácil remoção",
+    "price": 6.90,
+    "imageSrc": "/produtos/Marcador-Quadro-Preto.png",
+    "destaque": false
+  },
+  {
+    "id": 49,
+    "title": "Apagador para Quadro Branco",
+    "description": "Apagador anatômico com compartimento para dois marcadores",
+    "price": 8.50,
+    "imageSrc": "/produtos/Apagador-Quadro.png",
+    "destaque": false
+  },
+  {
+    "id": 50,
+    "title": "Maleta Escolar de Polionda",
+    "description": "Maleta plástica com alça e trava, ideal para transportar projetos",
+    "price": 13.90,
+    "imageSrc": "/produtos/Maleta-Polionda.png",
+    "destaque": false
+  }
+]
